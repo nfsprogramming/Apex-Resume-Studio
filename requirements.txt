@@ -1,0 +1,22 @@
+# FastAPI Backend
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-multipart
+
+# AI / LLM
+google-generativeai>=0.4.0
+openai>=1.0.0
+
+# Data Processing & Parsing
+PyPDF2>=3.0.0
+pandas>=2.2.2
+textblob>=0.17.1
+
+# Web Scraping & APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+PyGithub>=2.1.1
+
+# Utilities
+python-dotenv>=1.0.0
